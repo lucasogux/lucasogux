@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Lucas Oliveira!
 
-🌱 I’m currently learning React js
+🌱 I’m currently learning React js <br />
 📫 How to reach me: +55 51 98538-0397
 <!--
 **lucasogux/lucasogux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
