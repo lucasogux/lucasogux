@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Lucas Oliveira!
 
-🌱 I’m currently learning React js <br />
+🌱 I'm currently learning basic Front-end technologies <br />
 📫 How to reach me: +55 51 98538-0397
 
 ## Ferramentas e tecnologias <br />
